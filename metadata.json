@@ -1,0 +1,8 @@
+{
+  "name": "LectureFlow Notes",
+  "description": "Automated live lecture transcription and note-taking assistant.",
+  "requestFramePermissions": [
+    "microphone",
+    "display-capture"
+  ]
+}
